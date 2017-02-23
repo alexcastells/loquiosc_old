@@ -1,0 +1,45 @@
+%!Adobe-FontList 1.16
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Restaurar\Temporal\Lo Quiosc\web\neon-light\Font\revicons.eot
+FileModTime:1383430204
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Restaurar\Temporal\Lo Quiosc\web\neon-light\Font\revicons.svg
+FileModTime:1383430204
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:revicons
+FamilyName:revicons
+StyleName:Regular
+FullName:revicons
+MenuName:revicons
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Restaurar\Temporal\Lo Quiosc\web\neon-light\Font\revicons.ttf
+DataFormat:sfntData
+FileLength:11968
+FileModTime:1383430204
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,revicons
+NameArray:0,Win,1,revicons
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Restaurar\Temporal\Lo Quiosc\web\neon-light\Font\revicons.woff
+FileModTime:1383430204
+%EndFont
+
